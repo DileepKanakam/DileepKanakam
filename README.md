@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World, I'm Dileep Kumar Kanakam✨</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DileepKanakam" alt="DileepKanakam" /> </p>
-- 👀 I’m interested in </br>
-- 🌱 I’m currently Graduating B.Tech(CSE)...</br>
+- 👀 I’m interested in Web Development </br>
+- 🌱 I’m currently Graduating B.Tech(CSE) in <a href="https://miracle.edu.in/">Miracle Educational Society Group Of Institutions</a></br>
 - 💞️ I’m looking to collaborate on ...</br>
 - 📫 How to reach me ...</br>
 
